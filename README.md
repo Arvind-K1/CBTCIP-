@@ -5,7 +5,7 @@ This repository contains two Vite React applications: a ToDo List application an
 ## Projects
 
 1. [ToDo List Vite React App](#todo-list-vite-react-app)
-2. [Portfolio Vite React App](#portfolio-vite-react-app)
+2. [WeatherVue](#weathervue)
 
 ## ToDo List Vite React App
 
